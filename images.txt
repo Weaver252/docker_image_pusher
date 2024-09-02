@@ -1,1 +1,6 @@
 kalilinux/kali-rolling:latest
+bgenev/impulse-managerd
+nginx:alpine
+postgres:alpine
+redis:alpine
+bgenev/impulse-rsyslog
