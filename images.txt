@@ -4,3 +4,4 @@ nginx:alpine
 postgres:alpine
 redis:alpine
 bgenev/impulse-rsyslog
+netdata/netdata
