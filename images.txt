@@ -6,3 +6,10 @@ redis:alpine
 bgenev/impulse-rsyslog
 netdata/netdata
 ubuntu
+postgres:16-alpine
+minio/minio:RELEASE.2024-05-28T17-19-04Z
+rabbitmq:3.13-management
+openbas/caldera-server:5.0.0
+openbas/platform:1.5.1
+openbas/collector-mitre-attack:1.5.1
+openbas/collector-atomic-red-team:1.5.1
