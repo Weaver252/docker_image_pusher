@@ -15,3 +15,6 @@ openbas/collector-mitre-attack:1.5.1
 openbas/collector-atomic-red-team:1.5.1
 mongo:6.0
 infectionmonkey/monkey-island:latest
+openbas/platform:1.7.1
+openbas/collector-mitre-attack:1.7.1
+openbas/collector-atomic-red-team:1.7.1
